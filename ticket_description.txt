@@ -1,0 +1,93 @@
+ticket_description:
+- "My laptop cannot connect to WiFi"
+- "Password reset not working"
+- "System is very slow"
+- "Email not syncing on Outlook"
+
+labels:
+- Network
+- Access
+- Performance
+- Email
+
+Step 1: Text Cleaning
+lowercase
+remove stopwords
+Step 2: Convert text → numbers
+TF-IDF (FREE + powerful)
+Step 3: Train model
+Logistic Regression (best for beginners + recruiters love it)
+Step 4: Predict category + priority
+
+
+🖥️ STREAMLIT APP (THIS IS YOUR PORTFOLIO GOLD)
+
+You’ll build a web app like:
+
+Input:
+Ticket description box
+Output:
+Predicted category
+Priority level
+Similar past issues
+Suggested fix
+
+
+🌐 FREE DEPLOYMENT (IMPORTANT)
+Option 1 (BEST)
+
+👉 Streamlit Cloud
+
+100% free
+link you can put on CV
+Option 2
+
+👉 Hugging Face Spaces
+
+also free
+looks VERY AI/ML professional
+
+
+ai-ticket-classifier/
+│
+├── app.py (Streamlit app)
+├── model.py
+├── train.py
+├── data.csv
+├── requirements.txt
+├── README.md
+└── utils.py
+
+🔥 WHAT MAKES THIS HIREABLE
+
+Recruiters will see:
+
+✔ Real ML model (not fake AI)
+✔ NLP skills
+✔ End-to-end app
+✔ Deployed project (VERY important)
+✔ IT support relevance (your advantage)
+✔ Clean GitHub repo
+
+This is enough for:
+
+Junior Data Scientist
+AI Engineer Intern
+IT + AI hybrid roles
+Cloud/AI entry roles
+⚡ NEXT STEP (WE START BUILDING)
+
+If you say:
+
+“start step 1”
+
+I will give you:
+
+dataset (ready to copy)
+Python training code
+folder setup
+first working model
+
+Then we build it step-by-step until it’s deployable.
+
+No cost. No AWS. Just skills + portfolio.

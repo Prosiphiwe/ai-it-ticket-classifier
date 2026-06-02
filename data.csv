@@ -1,0 +1,21 @@
+description,category,priority
+VPN not connecting from home,Network,High
+Internet not working,Network,High
+WiFi keeps disconnecting,Network,High
+Cannot access shared drive,Network,Medium
+
+Forgot password,Access,Medium
+Password reset not working,Access,Medium
+Account locked after attempts,Access,High
+
+Laptop screen is black,Hardware,High
+Keyboard not working,Hardware,Medium
+Mouse not responding,Hardware,Low
+
+Outlook not syncing emails,Email,Medium
+Cannot send email,Email,High
+Emails stuck in outbox,Email,Medium
+
+Application crashes on launch,Software,High
+Software installation failed,Software,High
+App not opening,Software,Medium
